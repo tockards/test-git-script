@@ -19,6 +19,6 @@ this is used to test git script
 # the output should display
 
 ```
-commits ahead of origin 3
+commits ahead of origin 1
 commits behind of origin 0
 ```
