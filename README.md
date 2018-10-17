@@ -9,5 +9,16 @@ this is used to test git script
 `pip install -r requirements.txt`
 # create blank file
 `touch blank`
+# add file
+`git add blank`
+# commit file
+`git commit -m 'added blank'`
 # execute the script
 `python git-test-script.py`
+
+# the output should display
+
+```
+commits ahead of origin 3
+commits behind of origin 0
+```
